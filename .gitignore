@@ -1,5 +1,8 @@
 node_modules
-images
+images/*
 package-lock.json
-videos
+videos/*
 .vscode
+
+!images/index.js
+!videos/index.js
