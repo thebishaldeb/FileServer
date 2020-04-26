@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
+    "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bishal Deb",
@@ -15,5 +16,8 @@
     "fs": "0.0.1-security",
     "multer": "^1.4.2",
     "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }

@@ -2,13 +2,15 @@
 
 ## To run the repo
 
-* Using npm
+- Using npm
+
 ```
 npm install
 npm start
 ```
 
-* Using Yarn
+- Using Yarn
+
 ```
 yarn add
 yarn start
