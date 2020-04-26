@@ -23,3 +23,5 @@ The images uploaded get saved in the images folder and returns the path link whi
 The API for uploading image is `/api/upload/` in which form data is sent.
 
 Other APIs will be created as amd when needed.
+
+Link for the images is `/images/{image_name}`
