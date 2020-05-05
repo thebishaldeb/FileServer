@@ -5,5 +5,10 @@ yarn.lock
 videos/*
 .vscode
 
+
 !images/index.js
+!images/cover
+!images/cover/index.js
+!images/profile/
+!images/profile/index.js
 !videos/index.js
